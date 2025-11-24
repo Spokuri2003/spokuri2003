@@ -1,47 +1,60 @@
-# 👋 Hi, I'm Swathi
+# Swathi Pokuri
 
-🎓 Data Science Student | 📊 Aspiring Quantitative Analyst  
-💡 Exploring data, markets, and the intersection of code and finance.
-
----
-
-### 🚀 What I'm Working On
-I’m currently learning and building small experiments in:
-- Algorithmic trading and market analysis  
-- Quantitative research using Python  
-- Data visualization and technical indicators  
-
-My focus is to **learn by building** — starting from simple models to more structured quant systems.
+Graduate student in Data Science, focusing on quantitative finance and systematic trading research. I am developing a strong foundation in statistical modeling, market microstructure, and data-driven portfolio analysis.
 
 ---
 
-### 📈 Projects (Coming Soon)
-| Project | Focus Area |
-|----------|-------------|
-| 📊 Market Pulse | Studying how volume & volatility shape trends |
-| 💹 Crash Simulator | Exploring risk and drawdown dynamics |
-| 🧠 Quant Dashboard | Live visualization of key indicators |
+## Overview
 
-*(These projects will be published here as I progress.)*
+My academic work and personal research are centered on understanding how market behavior can be quantified through data. I approach financial markets as complex, evolving systems influenced by volatility regimes, liquidity variation, and structural transitions.
 
----
+I am particularly interested in:
+- Statistical properties of returns
+- Volatility dynamics
+- Systematic signal construction
+- Regime classification in financial time-series
+- Risk-adjusted performance measurement
 
-### 🧰 Tools & Languages
-`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Plotly`  
-`Data Analysis` • `TradingView` • `Machine Learning Basics`
+My goal is to develop analytical intuition and rigorous methods for extracting structure from noisy financial data.
 
 ---
 
-### 🎯 My Goal
-To understand how **data tells stories about the markets** — and turn that understanding into actionable insights.
+## Core Competencies
+
+**Quantitative Concepts**
+- Time-series analysis
+- Volatility modeling
+- Regime identification
+- Feature engineering for markets
+- Backtesting methodology
+
+**Technical Skills**
+- Python
+- NumPy, Pandas
+- Matplotlib
+- Data cleaning & transformation
+- Exploratory statistical analysis
 
 ---
 
-### 📫 Connect
-- GitHub: [spokuri2003](https://github.com/spokuri2003)
+## Current Focus
+
+Building a structured understanding of:
+- Market regimes and transitions
+- Signal formation and interpretation
+- Risk behavior in trending vs. turbulent markets
+
+With the objective of progressing toward:
+- systematic strategy design
+- empirical analysis
+- performance evaluation with discipline and skepticism
 
 ---
 
-⭐ *“Every great quant started with curiosity — not capital.”*
+## Contact
+
+GitHub: **spokuri2003**
+
+---
 
 
