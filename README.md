@@ -1,60 +1,59 @@
 # Swathi Pokuri
 
-I am an Electronics & Communication Engineering graduate currently focused on data science, machine learning, and quantitative analysis.  
-My work emphasizes building structured, reliable analytical workflows and understanding patterns in real-world data — especially time-series and system-driven behavior.
+I work on problems in data science, machine learning, and quantitative modeling, with a focus on building clear, reliable analytical pipelines.  
+My interests lie in understanding patterns in complex datasets, modeling system behavior, and developing practical ML-driven solutions.
 
-I approach problems with an engineering mindset: breaking them down, modeling behavior, evaluating outcomes, and iterating with clarity and structure.
+I enjoy working end-to-end — from data acquisition and feature design to modeling, evaluation, and interpretation — with an emphasis on clarity, structure, and reproducibility.
 
 ---
 
-## What I Work On
+## Areas of Interest
 
-- Machine learning & predictive modeling  
-- Statistical analysis & data-driven inference  
-- Time-series processing and behavior understanding  
-- Quantitative analysis of financial and non-financial datasets  
-- End-to-end workflows: data ingestion → feature design → modeling → evaluation  
-
-I aim to build projects that reflect real-world scenarios rather than tutorials, with clean code and reproducible logic.
+- Machine learning and predictive modeling  
+- Statistical and quantitative analysis  
+- Time-series modeling and pattern understanding  
+- End-to-end analytical workflows  
+- Data engineering, feature pipeline design, and model evaluation  
 
 ---
 
 ## Selected Work
 
 ### • Market Regime Classification (BTC-USD)  
-An unsupervised approach to segmenting market behavior using statistical features and clustering.  
-Includes diagnostics, regime characteristics, and performance evaluation.
+Unsupervised segmentation of market behavior using statistical features and clustering.  
+Includes diagnostics, regime characteristics, and comparative performance evaluation.
 
-*(Additional ML, analytics, and time-series projects will be added as I expand my portfolio.)*
+*(Additional ML and analytical projects will be added as I continue expanding my portfolio.)*
 
 ---
 
 ## Skills
 
-**Programming & Tools:**  
-Python, SQL, Bash, Git/GitHub, Jupyter/Colab  
+**Programming:**  
+Python, SQL, Git/GitHub, Bash
 
 **Data Science & Analytics:**  
-EDA, data cleaning, feature engineering, hypothesis testing, statistical modeling, visualization  
+EDA, statistical analysis, hypothesis testing, feature engineering, visualization, modeling workflows  
 
 **Machine Learning:**  
-Supervised & unsupervised learning, clustering methods, model evaluation, cross-validation, tree-based models  
+Supervised & unsupervised methods, clustering, tree-based models, cross-validation, performance evaluation  
 
-**Time-Series & Quantitative Methods:**  
-Return/volatility calculations, rolling-window analysis, trend features, risk metrics (Sharpe, drawdown), regime segmentation basics  
+**Time-Series & Quant Methods:**  
+Return/volatility features, rolling-window analysis, trend/momentum signals, risk metrics (Sharpe, drawdown), regime modeling basics  
 
-**Mathematical & Engineering Foundations (ECE):**  
-Signal processing concepts, noise/variation analysis, transforms, linear algebra, probability, control-systems thinking, system modeling fundamentals  
+**Mathematical Foundations:**  
+Probability, statistics, optimization basics, linear algebra, numerical methods  
 
-**Additional Exposure:**  
-Basics of deep learning (LSTM/CNN concepts), basic NLP, working with medium–large datasets, dashboard-style visualizations  
+**Tools:**  
+Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter/Colab, API data ingestion  
 
 ---
 
 ## Contact
 
 GitHub: **@Spokuri2003**  
-Open to opportunities in data science, machine learning, quantitative analysis, and analytical engineering.
+Open to opportunities in data science, machine learning, and quantitative analysis.
+
 
 
 
