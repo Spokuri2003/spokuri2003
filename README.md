@@ -1,60 +1,60 @@
 # Swathi Pokuri
 
-Graduate student in Data Science, focusing on quantitative finance and systematic trading research. I am developing a strong foundation in statistical modeling, market microstructure, and data-driven portfolio analysis.
+I am an Electronics & Communication Engineering graduate currently focused on data science, machine learning, and quantitative analysis.  
+My work emphasizes building structured, reliable analytical workflows and understanding patterns in real-world data — especially time-series and system-driven behavior.
+
+I approach problems with an engineering mindset: breaking them down, modeling behavior, evaluating outcomes, and iterating with clarity and structure.
 
 ---
 
-## Overview
+## What I Work On
 
-My academic work and personal research are centered on understanding how market behavior can be quantified through data. I approach financial markets as complex, evolving systems influenced by volatility regimes, liquidity variation, and structural transitions.
+- Machine learning & predictive modeling  
+- Statistical analysis & data-driven inference  
+- Time-series processing and behavior understanding  
+- Quantitative analysis of financial and non-financial datasets  
+- End-to-end workflows: data ingestion → feature design → modeling → evaluation  
 
-I am particularly interested in:
-- Statistical properties of returns
-- Volatility dynamics
-- Systematic signal construction
-- Regime classification in financial time-series
-- Risk-adjusted performance measurement
-
-My goal is to develop analytical intuition and rigorous methods for extracting structure from noisy financial data.
+I aim to build projects that reflect real-world scenarios rather than tutorials, with clean code and reproducible logic.
 
 ---
 
-## Core Competencies
+## Selected Work
 
-**Quantitative Concepts**
-- Time-series analysis
-- Volatility modeling
-- Regime identification
-- Feature engineering for markets
-- Backtesting methodology
+### • Market Regime Classification (BTC-USD)  
+An unsupervised approach to segmenting market behavior using statistical features and clustering.  
+Includes diagnostics, regime characteristics, and performance evaluation.
 
-**Technical Skills**
-- Python
-- NumPy, Pandas
-- Matplotlib
-- Data cleaning & transformation
-- Exploratory statistical analysis
+*(Additional ML, analytics, and time-series projects will be added as I expand my portfolio.)*
 
 ---
 
-## Current Focus
+## Skills
 
-Building a structured understanding of:
-- Market regimes and transitions
-- Signal formation and interpretation
-- Risk behavior in trending vs. turbulent markets
+**Programming & Tools:**  
+Python, SQL, Bash, Git/GitHub, Jupyter/Colab  
 
-With the objective of progressing toward:
-- systematic strategy design
-- empirical analysis
-- performance evaluation with discipline and skepticism
+**Data Science & Analytics:**  
+EDA, data cleaning, feature engineering, hypothesis testing, statistical modeling, visualization  
+
+**Machine Learning:**  
+Supervised & unsupervised learning, clustering methods, model evaluation, cross-validation, tree-based models  
+
+**Time-Series & Quantitative Methods:**  
+Return/volatility calculations, rolling-window analysis, trend features, risk metrics (Sharpe, drawdown), regime segmentation basics  
+
+**Mathematical & Engineering Foundations (ECE):**  
+Signal processing concepts, noise/variation analysis, transforms, linear algebra, probability, control-systems thinking, system modeling fundamentals  
+
+**Additional Exposure:**  
+Basics of deep learning (LSTM/CNN concepts), basic NLP, working with medium–large datasets, dashboard-style visualizations  
 
 ---
 
 ## Contact
 
-GitHub: **spokuri2003**
+GitHub: **@Spokuri2003**  
+Open to opportunities in data science, machine learning, quantitative analysis, and analytical engineering.
 
----
 
 
